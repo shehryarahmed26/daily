@@ -1,0 +1,39 @@
+name: Daily Vocabulary Generator
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # 4 AM UTC = 9 AM Pakistan (PKT = UTC+5)
+  workflow_dispatch:        # Manual trigger button on GitHub
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Needed to push commits
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate new word
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: node scripts/generate.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/words.json
+          WORD=$(node -e "const w=require('./data/words.json'); console.log(w[w.length-1].word)")
+          DATE=$(date +'%B %d, %Y')
+          git commit -m "New word: ${WORD} - ${DATE}"
+          git push
