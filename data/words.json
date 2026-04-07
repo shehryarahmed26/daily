@@ -75,5 +75,16 @@
     "antonym": "laxity, leniency, carelessness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 8,
+    "date": "2026-04-08",
+    "word": "Garrulous",
+    "meaning": "Talkative or loquacious",
+    "sentence": "The garrulous old man dominated the conversation at the dinner party",
+    "synonym": "Voluble",
+    "antonym": "Laconic",
+    "category": "Adjective",
+    "difficulty": "Medium"
   }
 ]
