@@ -86,5 +86,16 @@
     "antonym": "Laconic",
     "category": "Adjective",
     "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "date": "2026-04-12",
+    "word": "Deft",
+    "meaning": "Skilled and quick in a clever way",
+    "sentence": "The deft surgeon made the complex operation look easy",
+    "synonym": "Skilled, Adept, Proficient",
+    "antonym": "Clumsy, Inept, Incompetent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
