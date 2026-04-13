@@ -31,7 +31,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "Shehryarahmed26"
-          git config user.email "Shehryarahmed26@gmail.com"
+          git config user.email "154340943+shehryarahmed26@users.noreply.github.com"
           git add data/words.json
           WORD=$(node -e "const w=require('./data/words.json'); console.log(w[w.length-1].word)")
           DATE=$(date +'%B %d, %Y')
