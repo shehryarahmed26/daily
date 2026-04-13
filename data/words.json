@@ -119,5 +119,16 @@
     "antonym": "Careless, Neglectful, Inattentive",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 12,
+    "date": "2026-04-13",
+    "word": "Cacophony",
+    "meaning": "A harsh, unpleasant mixture of sounds",
+    "sentence": "The city street was filled with a cacophony of car horns, sirens, and construction noise",
+    "synonym": "Chaos, Discord, Clamor",
+    "antonym": "Harmony, Melody, Serenity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
