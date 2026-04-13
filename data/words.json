@@ -97,5 +97,16 @@
     "antonym": "Clumsy, Inept, Incompetent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 10,
+    "date": "2026-04-13",
+    "word": "Ephemeral",
+    "meaning": "Lasting for a very short time",
+    "sentence": "The firefly's glow was ephemeral, lasting only a few seconds",
+    "synonym": "transitory, fleeting, temporary",
+    "antonym": "permanent, lasting, eternal",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
