@@ -108,5 +108,16 @@
     "antonym": "permanent, lasting, eternal",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 11,
+    "date": "2026-04-13",
+    "word": "Vigilant",
+    "meaning": "Carefully watching or paying attention to something",
+    "sentence": "The security guard was vigilant and caught the intruder before they could enter the building",
+    "synonym": "Watchful, Attentive, Alert",
+    "antonym": "Careless, Neglectful, Inattentive",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
