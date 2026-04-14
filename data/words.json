@@ -130,5 +130,16 @@
     "antonym": "Harmony, Melody, Serenity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 13,
+    "date": "2026-04-14",
+    "word": "Diligent",
+    "meaning": "Showing careful and consistent effort or attention to detail",
+    "sentence": "The diligent student spent hours every day studying for her exams and eventually earned top grades",
+    "synonym": "Hardworking, Conscientious, Industrious",
+    "antonym": "Lazy, Careless, Negligent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
