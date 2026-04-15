@@ -141,5 +141,16 @@
     "antonym": "Lazy, Careless, Negligent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 14,
+    "date": "2026-04-15",
+    "word": "Inscrutable",
+    "meaning": "Difficult to understand or interpret",
+    "sentence": "The professor's inscrutable expression made it hard for students to gauge their performance",
+    "synonym": "Mysterious, Obscure, Ambiguous",
+    "antonym": "Transparent, Clear, Obvious",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
