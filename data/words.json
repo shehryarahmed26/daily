@@ -152,5 +152,16 @@
     "antonym": "Transparent, Clear, Obvious",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 15,
+    "date": "2026-04-16",
+    "word": "Catalyst",
+    "meaning": "A person or event that causes a change or action",
+    "sentence": "The new policy has been a catalyst for innovation in the company",
+    "synonym": "stimulus, motivator, initiator",
+    "antonym": "obstacle, hindrance, barrier",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
