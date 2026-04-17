@@ -163,5 +163,16 @@
     "antonym": "obstacle, hindrance, barrier",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 16,
+    "date": "2026-04-17",
+    "word": "Meritorious",
+    "meaning": "Deserving praise or reward",
+    "sentence": "The team received a meritorious award for their outstanding contribution to the project",
+    "synonym": "Deserving, Worthy, Commendable",
+    "antonym": "Unworthy, Undeserving, Unmerited",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
