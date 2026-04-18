@@ -174,5 +174,16 @@
     "antonym": "Unworthy, Undeserving, Unmerited",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 17,
+    "date": "2026-04-18",
+    "word": "Effervescent",
+    "meaning": "Bubbly or lively, often used to describe someone's personality",
+    "sentence": "The effervescent host made sure everyone had a great time at the party",
+    "synonym": "Vivacious, Exuberant, Lively",
+    "antonym": "Dull, Lifeless, Reserved",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
