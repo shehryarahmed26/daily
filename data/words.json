@@ -185,5 +185,16 @@
     "antonym": "Dull, Lifeless, Reserved",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 18,
+    "date": "2026-04-19",
+    "word": "Pragmatic",
+    "meaning": "Practical and sensible in approach",
+    "sentence": "She was a pragmatic leader who made decisions based on what would work best for the company",
+    "synonym": "Practical, Sensible, Reasonable",
+    "antonym": "Idealistic, Impulsive, Unrealistic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
