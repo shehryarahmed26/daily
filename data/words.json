@@ -196,5 +196,16 @@
     "antonym": "Idealistic, Impulsive, Unrealistic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 19,
+    "date": "2026-04-20",
+    "word": "Sagacious",
+    "meaning": "Having keen discernment and good judgment",
+    "sentence": "The sagacious investor made a fortune by predicting the market trend",
+    "synonym": "Astute, Discerning, Shrewd",
+    "antonym": "Naive, Foolish, Impulsive",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
