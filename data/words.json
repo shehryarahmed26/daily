@@ -207,5 +207,16 @@
     "antonym": "Naive, Foolish, Impulsive",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 20,
+    "date": "2026-04-21",
+    "word": "Nuance",
+    "meaning": "A subtle difference or shade of meaning",
+    "sentence": "The diplomat's understanding of the cultural nuance helped her navigate the complex negotiations",
+    "synonym": "subtlety, complexity, delicacy",
+    "antonym": "obviousness, simplicity, clarity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
