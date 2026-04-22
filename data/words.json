@@ -218,5 +218,16 @@
     "antonym": "obviousness, simplicity, clarity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 21,
+    "date": "2026-04-22",
+    "word": "Venerable",
+    "meaning": "Showing respect because of age, character, or achievements",
+    "sentence": "The venerable professor was given a standing ovation for his lifetime of contributions to the field",
+    "synonym": "Respected, Revered, Esteemed",
+    "antonym": "Disrespected, Ignored, Disparaged",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
