@@ -229,5 +229,16 @@
     "antonym": "Disrespected, Ignored, Disparaged",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 22,
+    "date": "2026-04-23",
+    "word": "Kaleidoscopic",
+    "meaning": "Constantly changing and multicolored",
+    "sentence": "The city's cultural scene was kaleidoscopic, with a wide range of artistic expressions on display",
+    "synonym": "Diverse, Dynamic, Varied",
+    "antonym": "Monotonous, Uniform, Static",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
