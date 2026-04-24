@@ -240,5 +240,16 @@
     "antonym": "Monotonous, Uniform, Static",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 23,
+    "date": "2026-04-24",
+    "word": "Prolific",
+    "meaning": "Producing a large amount of something",
+    "sentence": "The author was prolific and published several books every year",
+    "synonym": "Productive, Fertile, Abundant",
+    "antonym": "Unproductive, Barren, Scarce",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
