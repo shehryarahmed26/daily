@@ -251,5 +251,16 @@
     "antonym": "Unproductive, Barren, Scarce",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 24,
+    "date": "2026-04-25",
+    "word": "Dissident",
+    "meaning": "A person who strongly disagrees with an established authority or system",
+    "sentence": "The dissident group protested against the government's new policies in the city square",
+    "synonym": "Rebel, Nonconformist, Activist",
+    "antonym": "Conformist, Loyalist, Supporter",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
