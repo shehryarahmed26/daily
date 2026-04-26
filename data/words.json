@@ -262,5 +262,16 @@
     "antonym": "Conformist, Loyalist, Supporter",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 25,
+    "date": "2026-04-26",
+    "word": "Reclusive",
+    "meaning": "Preferring to be alone or avoiding social contact",
+    "sentence": "The reclusive author rarely gave interviews or made public appearances",
+    "synonym": "Introverted, Solitary, Isolated",
+    "antonym": "Outgoing, Sociable, Extroverted",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
