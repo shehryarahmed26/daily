@@ -273,5 +273,16 @@
     "antonym": "Outgoing, Sociable, Extroverted",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 26,
+    "date": "2026-04-27",
+    "word": "Assiduous",
+    "meaning": "Showing great care and effort in doing something",
+    "sentence": "The researcher spent years collecting data, demonstrating her assiduous approach to the project",
+    "synonym": "Industrious, Conscientious, Meticulous",
+    "antonym": "Lazy, Apathetic, Negligent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
