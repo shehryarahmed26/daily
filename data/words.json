@@ -284,5 +284,16 @@
     "antonym": "Lazy, Apathetic, Negligent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 27,
+    "date": "2026-04-28",
+    "word": "Lucid",
+    "meaning": "Clear and easy to understand",
+    "sentence": "The professor's lucid explanation of the complex theory made it simple for the students to grasp",
+    "synonym": "Clear, Coherent, Transparent",
+    "antonym": "Confusing, Ambiguous, Obscure",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
