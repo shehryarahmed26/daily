@@ -295,5 +295,16 @@
     "antonym": "Confusing, Ambiguous, Obscure",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 28,
+    "date": "2026-04-29",
+    "word": "Finesse",
+    "meaning": "Delicacy and subtlety of performance or skill",
+    "sentence": "The musician's finesse on the piano was impressive, as she played the complex piece with ease",
+    "synonym": "Refinement, subtlety, dexterity",
+    "antonym": "Clumsiness, awkwardness, crudeness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
