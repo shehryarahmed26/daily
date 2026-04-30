@@ -306,5 +306,16 @@
     "antonym": "Clumsiness, awkwardness, crudeness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 29,
+    "date": "2026-04-30",
+    "word": "Inquisitive",
+    "meaning": "Having a curious nature and asking questions",
+    "sentence": "The inquisitive student raised her hand to ask the teacher about the complex math problem",
+    "synonym": "Curious, Inquiring, Investigative",
+    "antonym": "Apathetic, Indifferent, Uninterested",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
