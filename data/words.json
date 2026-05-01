@@ -317,5 +317,16 @@
     "antonym": "Apathetic, Indifferent, Uninterested",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 30,
+    "date": "2026-05-01",
+    "word": "Heterogeneous",
+    "meaning": "Composed of different kinds of things",
+    "sentence": "The city's population is heterogeneous, with people from many different cultures and backgrounds",
+    "synonym": "Diverse, Varied, Mixed",
+    "antonym": "Homogeneous, Uniform, Consistent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
