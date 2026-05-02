@@ -328,5 +328,16 @@
     "antonym": "Homogeneous, Uniform, Consistent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 31,
+    "date": "2026-05-02",
+    "word": "Canny",
+    "meaning": "Having a keen sense of judgment and discretion",
+    "sentence": "The canny investor made a fortune by buying and selling at the right times",
+    "synonym": "Astute, Shrewd, Discerning",
+    "antonym": "Naive, Impulsive, Foolish",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
