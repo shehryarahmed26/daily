@@ -339,5 +339,16 @@
     "antonym": "Naive, Impulsive, Foolish",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 32,
+    "date": "2026-05-03",
+    "word": "Dissemble",
+    "meaning": "To conceal one's true intentions or feelings by pretence",
+    "sentence": "The politician tried to dissemble her involvement in the scandal, but the evidence was too strong",
+    "synonym": "deceive, disguise, pretend",
+    "antonym": "reveal, disclose, confess",
+    "category": "Verb",
+    "difficulty": "Advanced"
   }
 ]
