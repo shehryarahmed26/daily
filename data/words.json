@@ -350,5 +350,16 @@
     "antonym": "reveal, disclose, confess",
     "category": "Verb",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 33,
+    "date": "2026-05-04",
+    "word": "Ingenious",
+    "meaning": "Very clever and original",
+    "sentence": "The engineer came up with an ingenious solution to the complex problem",
+    "synonym": "Resourceful, Creative, Innovative",
+    "antonym": "Unoriginal, Uncreative, Clumsy",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
