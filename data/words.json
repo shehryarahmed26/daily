@@ -361,5 +361,16 @@
     "antonym": "Unoriginal, Uncreative, Clumsy",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 34,
+    "date": "2026-05-05",
+    "word": "Cathartic",
+    "meaning": "Providing emotional release or purging",
+    "sentence": "The movie was so cathartic that it made me cry and feel better afterwards",
+    "synonym": "therapeutic, purging, emotional",
+    "antonym": "traumatic, distressing, upsetting",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
