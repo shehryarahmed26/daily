@@ -372,5 +372,16 @@
     "antonym": "traumatic, distressing, upsetting",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 35,
+    "date": "2026-05-06",
+    "word": "Harmonious",
+    "meaning": "Having a pleasing combination of different things",
+    "sentence": "The harmonious relationship between the team members led to a successful project",
+    "synonym": "Congenial, Compatible, Coordinated",
+    "antonym": "Discordant, Incompatible, Clashing",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
