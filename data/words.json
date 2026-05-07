@@ -383,5 +383,16 @@
     "antonym": "Discordant, Incompatible, Clashing",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 36,
+    "date": "2026-05-07",
+    "word": "Tranquility",
+    "meaning": "A state of peace and quiet",
+    "sentence": "The serene landscape helped her find tranquility after a chaotic week",
+    "synonym": "Calmness, Serenity, Peacefulness",
+    "antonym": "Turmoil, Chaos, Agitation",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
