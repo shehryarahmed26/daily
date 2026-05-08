@@ -394,5 +394,16 @@
     "antonym": "Turmoil, Chaos, Agitation",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 37,
+    "date": "2026-05-08",
+    "word": "Cerebral",
+    "meaning": "Relating to the brain or intellectual activities",
+    "sentence": "She has a very cerebral approach to problem-solving, often thinking several steps ahead",
+    "synonym": "Intellectual, Mental, Cognitive",
+    "antonym": "Physical, Emotional, Instinctive",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
