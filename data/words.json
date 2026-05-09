@@ -405,5 +405,16 @@
     "antonym": "Physical, Emotional, Instinctive",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 38,
+    "date": "2026-05-09",
+    "word": "Proclivity",
+    "meaning": "A natural or habitual tendency or inclination",
+    "sentence": "She had a proclivity for art and spent most of her free time painting",
+    "synonym": "tendency, inclination, propensity",
+    "antonym": "aversion, dislike, reluctance",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
