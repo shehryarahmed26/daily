@@ -416,5 +416,16 @@
     "antonym": "aversion, dislike, reluctance",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 39,
+    "date": "2026-05-10",
+    "word": "Cumbersome",
+    "meaning": "Difficult to handle or manage because of size or weight",
+    "sentence": "The old computer was cumbersome and took up too much space in the office",
+    "synonym": "Clumsy, Unwieldy, Bulky",
+    "antonym": "Compact, Lightweight, Manageable",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
