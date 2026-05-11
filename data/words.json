@@ -427,5 +427,16 @@
     "antonym": "Compact, Lightweight, Manageable",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 40,
+    "date": "2026-05-11",
+    "word": "Mitigate",
+    "meaning": "To make something less severe or unpleasant",
+    "sentence": "The new policy aims to mitigate the effects of climate change on the environment",
+    "synonym": "Alleviate, Reduce, Minimize",
+    "antonym": "Exacerbate, Intensify, Worsen",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
