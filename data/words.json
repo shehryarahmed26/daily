@@ -438,5 +438,16 @@
     "antonym": "Exacerbate, Intensify, Worsen",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 41,
+    "date": "2026-05-12",
+    "word": "Coherence",
+    "meaning": "The quality of being logical and consistent",
+    "sentence": "The researcher's argument lacked coherence, making it difficult to understand her conclusions",
+    "synonym": "clarity, consistency, lucidity",
+    "antonym": "inconsistency, confusion, ambiguity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
