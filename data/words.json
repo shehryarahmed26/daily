@@ -449,5 +449,16 @@
     "antonym": "inconsistency, confusion, ambiguity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 42,
+    "date": "2026-05-13",
+    "word": "Resilient",
+    "meaning": "Able to withstand or recover quickly from difficult conditions",
+    "sentence": "The resilient team worked together to overcome the challenges they faced during the project",
+    "synonym": "Robust, Adaptable, Hardy",
+    "antonym": "Fragile, Weak, Delicate",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
