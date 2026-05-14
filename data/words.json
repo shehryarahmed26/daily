@@ -460,5 +460,16 @@
     "antonym": "Fragile, Weak, Delicate",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 43,
+    "date": "2026-05-14",
+    "word": "Adroit",
+    "meaning": "Skilled or clever in a quick and clever way",
+    "sentence": "The adroit manager handled the crisis with ease, impressing the entire team with her quick thinking",
+    "synonym": "skilled, clever, resourceful",
+    "antonym": "clumsy, inept, awkward",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
