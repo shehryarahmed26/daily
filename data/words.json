@@ -482,5 +482,16 @@
     "antonym": "Stagnate, Imitate, Replicate",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 45,
+    "date": "2026-05-16",
+    "word": "Simulacrum",
+    "meaning": "A copy or representation of something, especially one that is very similar but not exactly the same",
+    "sentence": "The theme park featured a simulacrum of the ancient city, complete with replicas of its famous buildings and monuments",
+    "synonym": "imitation, replica, duplicate",
+    "antonym": "original, authentic, genuine",
+    "category": "Noun",
+    "difficulty": "Advanced"
   }
 ]
