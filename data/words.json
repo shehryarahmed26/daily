@@ -493,5 +493,16 @@
     "antonym": "original, authentic, genuine",
     "category": "Noun",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 46,
+    "date": "2026-05-17",
+    "word": "Exuberant",
+    "meaning": "Full of energy and enthusiasm",
+    "sentence": "The exuberant crowd cheered as the concert began",
+    "synonym": "Vibrant, Lively, Energetic",
+    "antonym": "Subdued, Reserved, Dull",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
