@@ -504,5 +504,16 @@
     "antonym": "Subdued, Reserved, Dull",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 47,
+    "date": "2026-05-18",
+    "word": "Expedient",
+    "meaning": "A quick and effective solution to a problem",
+    "sentence": "The team found an expedient way to meet the project deadline by working overtime",
+    "synonym": "Convenient, Practical, Efficient",
+    "antonym": "Inefficient, Impractical, Complicated",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
