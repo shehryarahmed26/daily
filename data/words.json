@@ -515,5 +515,16 @@
     "antonym": "Inefficient, Impractical, Complicated",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 48,
+    "date": "2026-05-19",
+    "word": "Lassitude",
+    "meaning": "A feeling of weariness or lack of energy",
+    "sentence": "After working non-stop for weeks, she felt a deep lassitude and needed a break",
+    "synonym": "Fatigue, Lethargy, Weakness",
+    "antonym": "Vitality, Energy, Vigor",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
