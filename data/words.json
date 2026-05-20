@@ -526,5 +526,16 @@
     "antonym": "Vitality, Energy, Vigor",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 49,
+    "date": "2026-05-20",
+    "word": "Perfidious",
+    "meaning": "Disloyal or treacherous",
+    "sentence": "The company's perfidious actions towards its employees led to a major lawsuit",
+    "synonym": "Treacherous, Disloyal, Deceptive",
+    "antonym": "Loyal, Faithful, Trustworthy",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
