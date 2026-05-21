@@ -537,5 +537,16 @@
     "antonym": "Loyal, Faithful, Trustworthy",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 50,
+    "date": "2026-05-21",
+    "word": "Vigorous",
+    "meaning": "Full of energy and strength",
+    "sentence": "The athlete's vigorous training helped her win the marathon",
+    "synonym": "Energetic, Robust, Dynamic",
+    "antonym": "Weak, Sluggish, Lethargic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
