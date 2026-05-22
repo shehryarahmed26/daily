@@ -548,5 +548,16 @@
     "antonym": "Weak, Sluggish, Lethargic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 51,
+    "date": "2026-05-22",
+    "word": "Callipygian",
+    "meaning": "Having well-shaped or attractive buttocks",
+    "sentence": "The callipygian model strutted down the catwalk with confidence",
+    "synonym": "curvaceous, voluptuous, shapely",
+    "antonym": "gaunt, skinny, emaciated",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
