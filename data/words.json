@@ -570,5 +570,16 @@
     "antonym": "mediocrity, inferior, disappointment",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 53,
+    "date": "2026-05-24",
+    "word": "Volatile",
+    "meaning": "Likely to change or explode suddenly",
+    "sentence": "The volatile situation in the country made it difficult for tourists to travel safely",
+    "synonym": "Unstable, Explosive, Unpredictable",
+    "antonym": "Stable, Constant, Predictable",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
