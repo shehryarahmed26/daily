@@ -581,5 +581,16 @@
     "antonym": "Stable, Constant, Predictable",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 54,
+    "date": "2026-05-25",
+    "word": "Eloquent",
+    "meaning": "Having a clear and effective way of expressing ideas and thoughts",
+    "sentence": "The eloquent speaker captivated the audience with her powerful words and persuasive arguments",
+    "synonym": "Articulate, Expressive, Fluent",
+    "antonym": "Inarticulate, Incoherent, Uncommunicative",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
