@@ -592,5 +592,16 @@
     "antonym": "Inarticulate, Incoherent, Uncommunicative",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 55,
+    "date": "2026-05-27",
+    "word": "Vacillate",
+    "meaning": "To hesitate or be indecisive",
+    "sentence": "After weighing the pros and cons, she continued to vacillate about whether to take the job offer",
+    "synonym": "Hesitate, Waver, Fluctuate",
+    "antonym": "Decide, Commit, Resolve",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
