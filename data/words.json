@@ -603,5 +603,16 @@
     "antonym": "Decide, Commit, Resolve",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 56,
+    "date": "2026-05-28",
+    "word": "Erudite",
+    "meaning": "Having or showing a lot of knowledge and learning",
+    "sentence": "The erudite professor was able to explain complex concepts in a simple way",
+    "synonym": "Learned, Knowledgeable, Scholarly",
+    "antonym": "Ignorant, Uneducated, Illiterate",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
