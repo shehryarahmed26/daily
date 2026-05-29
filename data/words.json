@@ -614,5 +614,16 @@
     "antonym": "Ignorant, Uneducated, Illiterate",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 57,
+    "date": "2026-05-29",
+    "word": "Savvy",
+    "meaning": "Having a keen understanding and practical knowledge",
+    "sentence": "The savvy investor made a fortune by predicting the market trend",
+    "synonym": "Astute, Shrewd, Discerning",
+    "antonym": "Naive, Ignorant, Oblivious",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
