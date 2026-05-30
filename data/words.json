@@ -625,5 +625,16 @@
     "antonym": "Naive, Ignorant, Oblivious",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 58,
+    "date": "2026-05-30",
+    "word": "Permeate",
+    "meaning": "To spread or flow throughout something, often in a gradual or subtle way",
+    "sentence": "The smell of freshly baked bread began to permeate the entire house, making everyone feel hungry",
+    "synonym": "Penetrate, Infuse, Diffuse",
+    "antonym": "Isolate, Contain, Repel",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
