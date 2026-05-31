@@ -636,5 +636,16 @@
     "antonym": "Isolate, Contain, Repel",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 59,
+    "date": "2026-05-31",
+    "word": "Cryptic",
+    "meaning": "Difficult to understand or interpret",
+    "sentence": "The professor's cryptic comments left the students confused and unsure about the assignment",
+    "synonym": "Ambiguous, Obscure, Abstruse",
+    "antonym": "Clear, Transparent, Obvious",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
