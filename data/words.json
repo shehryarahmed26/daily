@@ -647,5 +647,16 @@
     "antonym": "Clear, Transparent, Obvious",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 60,
+    "date": "2026-06-01",
+    "word": "Tenacious",
+    "meaning": "Determined and stubborn in achieving a goal",
+    "sentence": "The tenacious athlete trained every day to win the championship",
+    "synonym": "Persistent, Unyielding, Relentless",
+    "antonym": "Indecisive, Weak, Timid",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
