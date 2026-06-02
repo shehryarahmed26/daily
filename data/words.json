@@ -658,5 +658,16 @@
     "antonym": "Indecisive, Weak, Timid",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 61,
+    "date": "2026-06-02",
+    "word": "Conundrum",
+    "meaning": "A puzzle or problem that is difficult to solve",
+    "sentence": "The math teacher presented a conundrum to the class that required creative thinking to resolve",
+    "synonym": "mystery, riddle, enigma",
+    "antonym": "answer, solution, simplicity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
