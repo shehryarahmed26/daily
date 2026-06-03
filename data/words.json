@@ -669,5 +669,16 @@
     "antonym": "answer, solution, simplicity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 62,
+    "date": "2026-06-03",
+    "word": "Candid",
+    "meaning": "Honest and straightforward in expression",
+    "sentence": "The journalist asked candid questions during the interview to get a better understanding of the politician's stance",
+    "synonym": "Frank, Open, Sincere",
+    "antonym": "Evasive, Deceptive, Diplomatic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
