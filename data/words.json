@@ -680,5 +680,16 @@
     "antonym": "Evasive, Deceptive, Diplomatic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 63,
+    "date": "2026-06-04",
+    "word": "Axiomatic",
+    "meaning": "Obvious or self-evident truth",
+    "sentence": "The fact that the earth orbits the sun is an axiomatic concept in modern astronomy",
+    "synonym": "Fundamental, Intrinsic, Intuitive",
+    "antonym": "Debatable, Dubious, Uncertain",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
