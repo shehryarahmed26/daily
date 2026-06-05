@@ -691,5 +691,16 @@
     "antonym": "Debatable, Dubious, Uncertain",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 64,
+    "date": "2026-06-05",
+    "word": "Vigil",
+    "meaning": "A period of watching or waiting, especially at night",
+    "sentence": "The doctor kept a vigil by the patient's bedside, monitoring their condition closely",
+    "synonym": "watch, surveillance, observation",
+    "antonym": "neglect, disregard, indifference",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
