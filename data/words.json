@@ -702,5 +702,16 @@
     "antonym": "neglect, disregard, indifference",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 65,
+    "date": "2026-06-06",
+    "word": "Rigorously",
+    "meaning": "In a thorough and careful manner",
+    "sentence": "The new policy will be implemented rigorously to ensure compliance with the regulations",
+    "synonym": "Thoroughly, Meticulously, Strictly",
+    "antonym": "Carelessly, Negligently, Haphazardly",
+    "category": "Adverb",
+    "difficulty": "Intermediate"
   }
 ]
