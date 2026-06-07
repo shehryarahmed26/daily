@@ -713,5 +713,16 @@
     "antonym": "Carelessly, Negligently, Haphazardly",
     "category": "Adverb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 66,
+    "date": "2026-06-07",
+    "word": "Luminary",
+    "meaning": "A person who inspires or influences others with their ideas or talents",
+    "sentence": "The famous scientist was a luminary in her field, known for her groundbreaking research and innovative thinking",
+    "synonym": "Visionary, Expert, Leader",
+    "antonym": "Novice, Amateur, Follower",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
