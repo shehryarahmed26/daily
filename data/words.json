@@ -724,5 +724,16 @@
     "antonym": "Novice, Amateur, Follower",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 67,
+    "date": "2026-06-08",
+    "word": "Finespun",
+    "meaning": "Delicately subtle or intricate in structure or character",
+    "sentence": "The philosopher's argument was so finespun that it required careful analysis to fully comprehend",
+    "synonym": "Intricate, Complex, Sophisticated",
+    "antonym": "Simple, Coarse, Clumsy",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
