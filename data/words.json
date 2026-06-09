@@ -735,5 +735,16 @@
     "antonym": "Simple, Coarse, Clumsy",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 68,
+    "date": "2026-06-09",
+    "word": "Luminous",
+    "meaning": "Giving off light, typically in the form of rays or a glow",
+    "sentence": "The luminous moon shone brightly in the night sky, illuminating the landscape",
+    "synonym": "Radiant, Shining, Glowing",
+    "antonym": "Dim, Dark, Dull",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
