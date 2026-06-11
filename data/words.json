@@ -757,5 +757,16 @@
     "antonym": "Similarity, Unity, Harmony",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 70,
+    "date": "2026-06-11",
+    "word": "Insouciant",
+    "meaning": "Carefree and nonchalant",
+    "sentence": "The insouciant tourist wandered through the city, taking in the sights and sounds without a worry",
+    "synonym": "Carefree, Nonchalant, Blithe",
+    "antonym": "Worried, Anxious, Apprehensive",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
