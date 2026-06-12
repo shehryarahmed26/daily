@@ -768,5 +768,16 @@
     "antonym": "Worried, Anxious, Apprehensive",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 71,
+    "date": "2026-06-12",
+    "word": "Synergy",
+    "meaning": "The interaction or cooperation of two or more agents to produce an effect that is greater than the sum of their individual contributions",
+    "sentence": "The company's synergy between marketing and sales teams led to a significant increase in revenue",
+    "synonym": "Cooperation, Collaboration, Partnership",
+    "antonym": "Conflict, Competition, Isolation",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
