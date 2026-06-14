@@ -790,5 +790,16 @@
     "antonym": "rarity, scarcity, isolation",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 73,
+    "date": "2026-06-14",
+    "word": "Veracious",
+    "meaning": "Truthful and honest",
+    "sentence": "The veracious journalist reported the facts of the story without any bias or distortion",
+    "synonym": "Honest, Sincere, Transparent",
+    "antonym": "Deceptive, Dishonest, Mendacious",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
