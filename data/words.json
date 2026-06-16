@@ -801,5 +801,16 @@
     "antonym": "Deceptive, Dishonest, Mendacious",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 74,
+    "date": "2026-06-16",
+    "word": "Rigidity",
+    "meaning": "A state of being stiff or unyielding",
+    "sentence": "The doctor noted a significant rigidity in the patient's muscles after the injury",
+    "synonym": "Stiffness, Inflexibility, Inflexibleness",
+    "antonym": "Flexibility, Pliability, Suppleness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
