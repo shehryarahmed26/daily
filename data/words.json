@@ -812,5 +812,16 @@
     "antonym": "Flexibility, Pliability, Suppleness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 75,
+    "date": "2026-06-17",
+    "word": "Fluxion",
+    "meaning": "A small or continuous change, especially in a process or system",
+    "sentence": "The company's management team tried to adapt to the constant fluxion in the market trends",
+    "synonym": "Variation, fluctuation, modification",
+    "antonym": "Stability, consistency, stagnation",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
