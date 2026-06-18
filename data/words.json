@@ -823,5 +823,16 @@
     "antonym": "Stability, consistency, stagnation",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 76,
+    "date": "2026-06-18",
+    "word": "Thorough",
+    "meaning": "Done with great attention to detail",
+    "sentence": "The manager ordered a thorough investigation into the cause of the accident",
+    "synonym": "Comprehensive, Detailed, Exhaustive",
+    "antonym": "Superficial, Careless, Negligent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
