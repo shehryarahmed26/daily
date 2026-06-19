@@ -834,5 +834,16 @@
     "antonym": "Superficial, Careless, Negligent",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 77,
+    "date": "2026-06-19",
+    "word": "Affinity",
+    "meaning": "A natural or instinctive liking for something",
+    "sentence": "She has an affinity for playing musical instruments and spends most of her free time practicing",
+    "synonym": "inclination, fondness, preference",
+    "antonym": "aversion, dislike, indifference",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
