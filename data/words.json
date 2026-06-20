@@ -845,5 +845,16 @@
     "antonym": "aversion, dislike, indifference",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 78,
+    "date": "2026-06-20",
+    "word": "Sedentary",
+    "meaning": "Spending a lot of time sitting or inactive",
+    "sentence": "After a few years of working at a desk job, she found herself leading a sedentary lifestyle and decided to join a gym",
+    "synonym": "idle, inactive, stationary",
+    "antonym": "active, energetic, mobile",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
