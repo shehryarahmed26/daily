@@ -856,5 +856,16 @@
     "antonym": "active, energetic, mobile",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 79,
+    "date": "2026-06-21",
+    "word": "Facilitate",
+    "meaning": "To make something easier or less difficult",
+    "sentence": "The new software will facilitate communication between teams",
+    "synonym": "Simplify, Ease, Streamline",
+    "antonym": "Hinder, Obstruct, Complicate",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
