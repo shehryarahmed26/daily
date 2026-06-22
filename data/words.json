@@ -867,5 +867,16 @@
     "antonym": "Hinder, Obstruct, Complicate",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 80,
+    "date": "2026-06-22",
+    "word": "Rigorous",
+    "meaning": "Thorough and exhaustive in method or approach",
+    "sentence": "The scientist conducted a rigorous study to determine the effects of climate change on the environment",
+    "synonym": "Thorough, Exhaustive, Meticulous",
+    "antonym": "Cursory, Superficial, Lax",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
