@@ -878,5 +878,16 @@
     "antonym": "Cursory, Superficial, Lax",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 81,
+    "date": "2026-06-23",
+    "word": "Profound",
+    "meaning": "Very great or intense, often in a way that is difficult to understand or explain",
+    "sentence": "The professor's lecture on the universe was profound and left many students with a new perspective on life",
+    "synonym": "Deep, Insightful, Thought-provoking",
+    "antonym": "Superficial, Shallow, Frivolous",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
