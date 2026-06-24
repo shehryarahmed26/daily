@@ -889,5 +889,16 @@
     "antonym": "Superficial, Shallow, Frivolous",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 82,
+    "date": "2026-06-24",
+    "word": "Precarious",
+    "meaning": "Not safe or secure, uncertain",
+    "sentence": "The worker's precarious position on the roof made it difficult for him to complete the task without feeling anxious",
+    "synonym": "Unstable, Hazardous, Uncertain",
+    "antonym": "Stable, Secure, Certain",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
