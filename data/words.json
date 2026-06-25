@@ -900,5 +900,16 @@
     "antonym": "Stable, Secure, Certain",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 83,
+    "date": "2026-06-25",
+    "word": "Culpable",
+    "meaning": "Deserving blame or guilt for something",
+    "sentence": "The company was found culpable for the environmental disaster and was fined heavily",
+    "synonym": "guilty, responsible, blameworthy",
+    "antonym": "innocent, blameless, exonerated",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
