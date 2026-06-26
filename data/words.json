@@ -911,5 +911,16 @@
     "antonym": "innocent, blameless, exonerated",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 84,
+    "date": "2026-06-26",
+    "word": "Credulous",
+    "meaning": "Having a tendency to believe too easily or too willingly",
+    "sentence": "The credulous tourist fell for the scam artist's convincing story and handed over his money",
+    "synonym": "Gullible, Naive, Trusting",
+    "antonym": "Skeptical, Discerning, Cynical",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
