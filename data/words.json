@@ -922,5 +922,16 @@
     "antonym": "Skeptical, Discerning, Cynical",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 85,
+    "date": "2026-06-27",
+    "word": "Convivial",
+    "meaning": "Friendly and sociable, enjoying the company of others",
+    "sentence": "The convivial atmosphere at the party made it easy to meet new people",
+    "synonym": "Sociable, Genial, Affable",
+    "antonym": "Introverted, Aloof, Unfriendly",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
