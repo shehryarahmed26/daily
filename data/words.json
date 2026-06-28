@@ -933,5 +933,16 @@
     "antonym": "Introverted, Aloof, Unfriendly",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 86,
+    "date": "2026-06-28",
+    "word": "Lachrymose",
+    "meaning": "Causing or characterized by sadness or sorrow",
+    "sentence": "The lachrymose melody of the violin filled the room with a sense of melancholy",
+    "synonym": "sad, mournful, gloomy",
+    "antonym": "cheerful, joyful, upbeat",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
