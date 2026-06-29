@@ -944,5 +944,16 @@
     "antonym": "cheerful, joyful, upbeat",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 87,
+    "date": "2026-06-29",
+    "word": "Reticent",
+    "meaning": "Unwilling to talk or share information",
+    "sentence": "The CEO was reticent about the company's future plans during the press conference",
+    "synonym": "Reserved, Taciturn, Silent",
+    "antonym": "Talkative, Communicative, Forthcoming",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
