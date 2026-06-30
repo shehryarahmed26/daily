@@ -955,5 +955,16 @@
     "antonym": "Talkative, Communicative, Forthcoming",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 88,
+    "date": "2026-06-30",
+    "word": "Ingenial",
+    "meaning": "Friendly and charming in a quiet and unobtrusive way",
+    "sentence": "The ingenial host made sure all the guests felt welcome and at ease during the party",
+    "synonym": "Affable, Amiable, Genial",
+    "antonym": "Abrasive, Aloof, Unfriendly",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
