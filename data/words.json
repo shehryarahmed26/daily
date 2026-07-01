@@ -966,5 +966,16 @@
     "antonym": "Abrasive, Aloof, Unfriendly",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 89,
+    "date": "2026-07-01",
+    "word": "Symbiosis",
+    "meaning": "A close and often long-term relationship between different species or people that benefits both parties",
+    "sentence": "The relationship between the clownfish and the sea anemone is a classic example of symbiosis, where the fish receives protection and the anemone gets cleaned",
+    "synonym": "Mutualism, Cooperation, Interdependence",
+    "antonym": "Conflict, Competition, Opposition",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
