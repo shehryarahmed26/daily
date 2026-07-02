@@ -977,5 +977,16 @@
     "antonym": "Conflict, Competition, Opposition",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 90,
+    "date": "2026-07-02",
+    "word": "Abstruse",
+    "meaning": "Difficult to understand, obscure",
+    "sentence": "The professor's abstruse explanation of the theory left many students confused",
+    "synonym": "Obscure, complex, arcane",
+    "antonym": "Clear, simple, straightforward",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
