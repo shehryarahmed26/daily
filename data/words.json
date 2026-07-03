@@ -988,5 +988,16 @@
     "antonym": "Clear, simple, straightforward",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 91,
+    "date": "2026-07-03",
+    "word": "Vindicate",
+    "meaning": "To prove someone or something is right or justified",
+    "sentence": "The new evidence helped to vindicate the defendant's claim of innocence",
+    "synonym": "Justify, Validate, Exonerate",
+    "antonym": "Condemn, Incriminate, Implicate",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
