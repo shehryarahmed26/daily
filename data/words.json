@@ -999,5 +999,16 @@
     "antonym": "Condemn, Incriminate, Implicate",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 92,
+    "date": "2026-07-04",
+    "word": "Ameliorate",
+    "meaning": "To make something better or more tolerable",
+    "sentence": "The new policy aims to ameliorate the working conditions for employees",
+    "synonym": "Improve, Enhance, Refine",
+    "antonym": "Worsen, Deteriorate, Exacerbate",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
