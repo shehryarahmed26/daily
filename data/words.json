@@ -1010,5 +1010,16 @@
     "antonym": "Worsen, Deteriorate, Exacerbate",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 93,
+    "date": "2026-07-05",
+    "word": "Refine",
+    "meaning": "To improve or make something more subtle and precise",
+    "sentence": "The company will refine its marketing strategy to better target its audience",
+    "synonym": "Improve, polish, perfect",
+    "antonym": "Deteriorate, worsen, impair",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
