@@ -1021,5 +1021,16 @@
     "antonym": "Deteriorate, worsen, impair",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 94,
+    "date": "2026-07-06",
+    "word": "Cosmopolitan",
+    "meaning": "Having an international or global character, especially in relation to culture or lifestyle",
+    "sentence": "The city's cosmopolitan atmosphere made it a popular destination for tourists from all over the world",
+    "synonym": "global, multicultural, international",
+    "antonym": "provincial, parochial, insular",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
