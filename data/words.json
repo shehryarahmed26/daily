@@ -1032,5 +1032,16 @@
     "antonym": "provincial, parochial, insular",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 95,
+    "date": "2026-07-07",
+    "word": "Acumen",
+    "meaning": "The ability to make good judgments and quick decisions",
+    "sentence": "The business owner's acumen helped her to make smart investments and expand her company",
+    "synonym": "Astuteness, Sharpness, Discernment",
+    "antonym": "Naivety, Foolishness, Shortsightedness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
