@@ -1043,5 +1043,16 @@
     "antonym": "Naivety, Foolishness, Shortsightedness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 96,
+    "date": "2026-07-08",
+    "word": "Agricultural",
+    "meaning": "Relating to farming or the production of food",
+    "sentence": "The company specializes in providing agricultural equipment to farmers in rural areas",
+    "synonym": "Rural, Agricultural, Pastoral",
+    "antonym": "Urban, Industrial, Commercial",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
