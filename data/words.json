@@ -1054,5 +1054,16 @@
     "antonym": "Urban, Industrial, Commercial",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 97,
+    "date": "2026-07-09",
+    "word": "Synchrony",
+    "meaning": "The state of being in harmony or coordination with something",
+    "sentence": "The team's synchrony was evident in their flawless performance, with each member working together seamlessly",
+    "synonym": "Harmony, Coordination, Unity",
+    "antonym": "Dissonance, Discord, Chaos",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
