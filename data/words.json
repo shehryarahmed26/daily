@@ -1065,5 +1065,16 @@
     "antonym": "Dissonance, Discord, Chaos",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 98,
+    "date": "2026-07-11",
+    "word": "Empathic",
+    "meaning": "Able to understand and share the feelings of another",
+    "sentence": "The empathic nurse was able to comfort the grieving patient with kindness and compassion",
+    "synonym": "Compassionate, Sympathetic, Kind",
+    "antonym": "Apathetic, Indifferent, Uncaring",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
