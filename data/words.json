@@ -1076,5 +1076,16 @@
     "antonym": "Apathetic, Indifferent, Uncaring",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 99,
+    "date": "2026-07-12",
+    "word": "Cacography",
+    "meaning": "Poor or ungrammatical writing or handwriting",
+    "sentence": "The student's essay was marked down for cacography, as the handwriting was illegible and the sentences were poorly constructed",
+    "synonym": "Scrawl, Scribble, Illegibility",
+    "antonym": "Calligraphy, Legibility, Clarity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
