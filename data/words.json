@@ -1087,5 +1087,16 @@
     "antonym": "Calligraphy, Legibility, Clarity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 100,
+    "date": "2026-07-13",
+    "word": "Ruminative",
+    "meaning": "Thoughtfully thinking about something in a careful and detailed way",
+    "sentence": "After the meeting, she spent the evening in a ruminative state, reflecting on the discussions and decisions made",
+    "synonym": "Reflective, Contemplative, Pensive",
+    "antonym": "Thoughtless, Impulsive, Frivolous",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
