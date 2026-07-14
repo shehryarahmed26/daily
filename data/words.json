@@ -1098,5 +1098,16 @@
     "antonym": "Thoughtless, Impulsive, Frivolous",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 101,
+    "date": "2026-07-14",
+    "word": "Phenomenon",
+    "meaning": "A remarkable or extraordinary event or situation",
+    "sentence": "The solar eclipse was a rare phenomenon that attracted millions of viewers worldwide",
+    "synonym": "Occurrence, Event, Happening",
+    "antonym": "Nonentity, Normality, Ordinariness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
