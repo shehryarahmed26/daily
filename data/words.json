@@ -1109,5 +1109,16 @@
     "antonym": "Nonentity, Normality, Ordinariness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 102,
+    "date": "2026-07-15",
+    "word": "Crepuscular",
+    "meaning": "Relating to or resembling twilight",
+    "sentence": "The photographer waited for the crepuscular hour to capture the warm glow of the setting sun",
+    "synonym": "dusky, twilight, gloaming",
+    "antonym": "diurnal, daytime, sunny",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
