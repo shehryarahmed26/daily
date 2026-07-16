@@ -1120,5 +1120,16 @@
     "antonym": "diurnal, daytime, sunny",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 103,
+    "date": "2026-07-16",
+    "word": "Rapprochement",
+    "meaning": "The process of improving or rebuilding a relationship, especially between countries or groups",
+    "sentence": "After years of tension, the two nations began a rapprochement, leading to increased trade and diplomacy",
+    "synonym": "Reconciliation, Detente, Accord",
+    "antonym": "Escalation, Confrontation, Isolation",
+    "category": "Noun",
+    "difficulty": "Advanced"
   }
 ]
