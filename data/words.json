@@ -1131,5 +1131,16 @@
     "antonym": "Escalation, Confrontation, Isolation",
     "category": "Noun",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 104,
+    "date": "2026-07-17",
+    "word": "Rhapsodic",
+    "meaning": "Expressing enthusiastic or exaggerated emotion",
+    "sentence": "The rhapsodic review of the new restaurant made me want to try it immediately",
+    "synonym": "Ecstatic, Euphoric, Effusive",
+    "antonym": "Apathetic, Indifferent, Unenthusiastic",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
