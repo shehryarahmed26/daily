@@ -1142,5 +1142,16 @@
     "antonym": "Apathetic, Indifferent, Unenthusiastic",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 105,
+    "date": "2026-07-18",
+    "word": "Interstice",
+    "meaning": "A small space or gap between things",
+    "sentence": "The architect carefully designed the building to include small interstices between the walls for insulation and ventilation",
+    "synonym": "gap, interval, crevice",
+    "antonym": "solidity, continuity, unity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
