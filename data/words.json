@@ -1153,5 +1153,16 @@
     "antonym": "solidity, continuity, unity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 106,
+    "date": "2026-07-19",
+    "word": "Dissolution",
+    "meaning": "The act or process of breaking down or coming to an end",
+    "sentence": "The company faced dissolution after it was unable to pay its debts",
+    "synonym": "collapse, breakdown, disintegration",
+    "antonym": "formation, creation, establishment",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
