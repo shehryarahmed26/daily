@@ -1164,5 +1164,16 @@
     "antonym": "formation, creation, establishment",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 107,
+    "date": "2026-07-20",
+    "word": "Clemency",
+    "meaning": "The act of showing mercy or leniency to someone",
+    "sentence": "The judge showed clemency to the young offender and reduced the sentence",
+    "synonym": "Mercy, Leniency, Pardon",
+    "antonym": "Harshness, Severity, Cruelty",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
