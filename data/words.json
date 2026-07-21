@@ -1175,5 +1175,16 @@
     "antonym": "Harshness, Severity, Cruelty",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 108,
+    "date": "2026-07-21",
+    "word": "Introspection",
+    "meaning": "The act of examining your own thoughts and feelings",
+    "sentence": "After losing her job, she spent weeks in introspection, trying to figure out what she wanted to do next",
+    "synonym": "Self-reflection, Contemplation, Meditation",
+    "antonym": "Distraction, Procrastination, Externalization",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
