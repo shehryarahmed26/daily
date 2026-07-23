@@ -1186,5 +1186,16 @@
     "antonym": "Distraction, Procrastination, Externalization",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 109,
+    "date": "2026-07-23",
+    "word": "Pursue",
+    "meaning": "To follow or continue something with effort or determination",
+    "sentence": "She decided to pursue a career in law after graduating from college",
+    "synonym": "Chase, Follow, Continue",
+    "antonym": "Abandon, Give up, Stop",
+    "category": "Verb",
+    "difficulty": "Beginner"
   }
 ]
