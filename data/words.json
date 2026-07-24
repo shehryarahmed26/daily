@@ -1197,5 +1197,16 @@
     "antonym": "Abandon, Give up, Stop",
     "category": "Verb",
     "difficulty": "Beginner"
+  },
+  {
+    "id": 110,
+    "date": "2026-07-24",
+    "word": "Sophisticated",
+    "meaning": "Complex or cultured in a refined way",
+    "sentence": "The sophisticated design of the new smartphone made it a top choice among tech enthusiasts",
+    "synonym": "Refined, cultured, elegant",
+    "antonym": "Simple, primitive, unsophisticated",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
