@@ -1208,5 +1208,16 @@
     "antonym": "Simple, primitive, unsophisticated",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 111,
+    "date": "2026-07-26",
+    "word": "Mundane",
+    "meaning": "Lacking interest or excitement",
+    "sentence": "The mundane task of data entry was not what she had envisioned for her career",
+    "synonym": "Dull, Uninteresting, Tedious",
+    "antonym": "Exciting, Interesting, Thrilling",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
