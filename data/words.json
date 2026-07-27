@@ -1219,5 +1219,16 @@
     "antonym": "Exciting, Interesting, Thrilling",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 112,
+    "date": "2026-07-27",
+    "word": "Auspicious",
+    "meaning": "Giving a sign that something good will happen",
+    "sentence": "The company's new product launch was on an auspicious day, and it received great feedback from customers",
+    "synonym": "Favorable, Propitious, Promising",
+    "antonym": "Inauspicious, Unfavorable, Ominous",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
