@@ -1241,5 +1241,16 @@
     "antonym": "dull, boring, uninteresting",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 114,
+    "date": "2026-07-29",
+    "word": "Vacuous",
+    "meaning": "Lacking intelligence or substance",
+    "sentence": "The vacuous expression on his face made it hard to take him seriously during the job interview",
+    "synonym": "empty, hollow, superficial",
+    "antonym": "intelligent, thoughtful, profound",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
