@@ -1252,5 +1252,16 @@
     "antonym": "intelligent, thoughtful, profound",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 115,
+    "date": "2026-07-30",
+    "word": "Corroborate",
+    "meaning": "To support or confirm something with evidence or testimony",
+    "sentence": "The witness's statement helped to corroborate the suspect's alibi",
+    "synonym": "Confirm, Validate, Verify",
+    "antonym": "Contradict, Refute, Disprove",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
