@@ -1263,5 +1263,16 @@
     "antonym": "Contradict, Refute, Disprove",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 116,
+    "date": "2026-08-01",
+    "word": "Solicitous",
+    "meaning": "Showing concern or care for someone or something",
+    "sentence": "The solicitous nurse made sure her patient was comfortable and happy",
+    "synonym": "considerate, thoughtful, attentive",
+    "antonym": "indifferent, uncaring, neglectful",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
