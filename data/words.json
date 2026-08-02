@@ -1274,5 +1274,16 @@
     "antonym": "indifferent, uncaring, neglectful",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 117,
+    "date": "2026-08-02",
+    "word": "Lethargy",
+    "meaning": "A state of physical or mental inactivity",
+    "sentence": "After a big meal, I felt a wave of lethargy wash over me and I couldn't muster the energy to do anything",
+    "synonym": "Apathy, Sluggishness, Torpor",
+    "antonym": "Energy, Vigor, Alertness",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
