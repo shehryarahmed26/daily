@@ -1285,5 +1285,16 @@
     "antonym": "Energy, Vigor, Alertness",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 118,
+    "date": "2026-08-03",
+    "word": "Tactician",
+    "meaning": "A person skilled in planning and strategy",
+    "sentence": "The company hired a new tactician to lead their marketing team and develop a competitive strategy",
+    "synonym": "Strategist, Planner, Coordinator",
+    "antonym": "Impulsivist, Dilettante, Amateur",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
