@@ -1296,5 +1296,16 @@
     "antonym": "Impulsivist, Dilettante, Amateur",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 119,
+    "date": "2026-08-04",
+    "word": "Galvanize",
+    "meaning": "To shock or excite someone into action",
+    "sentence": "The company's financial troubles galvanized the employees to work together to find a solution",
+    "synonym": "Motivate, Inspire, Stimulate",
+    "antonym": "Discourage, Demotivate, Stifle",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
