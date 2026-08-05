@@ -1307,5 +1307,16 @@
     "antonym": "Discourage, Demotivate, Stifle",
     "category": "Verb",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 120,
+    "date": "2026-08-05",
+    "word": "Iconoclastic",
+    "meaning": "Willing to challenge and change established ideas or traditions",
+    "sentence": "The artist's iconoclastic style was reflected in her unconventional use of materials and techniques",
+    "synonym": "Rebellious, Nonconformist, Radical",
+    "antonym": "Conformist, Traditional, Conservative",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
