@@ -1318,5 +1318,16 @@
     "antonym": "Conformist, Traditional, Conservative",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 121,
+    "date": "2026-08-06",
+    "word": "Mundanity",
+    "meaning": "The quality of being ordinary or dull",
+    "sentence": "The mundanity of daily routine can be overwhelming at times",
+    "synonym": "monotony, banality, tedium",
+    "antonym": "excitement, thrill, adventure",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
