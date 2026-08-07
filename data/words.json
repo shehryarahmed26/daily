@@ -1329,5 +1329,16 @@
     "antonym": "excitement, thrill, adventure",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 122,
+    "date": "2026-08-07",
+    "word": "Spectrum",
+    "meaning": "A range of different things, such as colors, sounds, or ideas",
+    "sentence": "The company's products cater to a wide spectrum of customers, from beginners to professionals",
+    "synonym": "range, variety, diversity",
+    "antonym": "uniformity, similarity, homogeneity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
