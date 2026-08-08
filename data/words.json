@@ -1340,5 +1340,16 @@
     "antonym": "uniformity, similarity, homogeneity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 123,
+    "date": "2026-08-08",
+    "word": "Tessellate",
+    "meaning": "To cover a surface with small, repeated shapes that fit together without overlapping",
+    "sentence": "The artist's use of tiles helped to tessellate the entire floor with a beautiful, intricate pattern",
+    "synonym": "mosaic, tile, pattern",
+    "antonym": "disjoint, separate, disconnected",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
