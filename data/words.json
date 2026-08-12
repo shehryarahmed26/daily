@@ -1373,5 +1373,16 @@
     "antonym": "distance, remoteness, isolation",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 126,
+    "date": "2026-08-12",
+    "word": "Pensive",
+    "meaning": "Deeply thoughtful and often serious or sad",
+    "sentence": "She sat alone, looking pensive as she stared out the window, lost in her own thoughts",
+    "synonym": "Contemplative, Reflective, Melancholic",
+    "antonym": "Carefree, Cheerful, Frivolous",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
