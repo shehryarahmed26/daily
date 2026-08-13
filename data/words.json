@@ -1384,5 +1384,16 @@
     "antonym": "Carefree, Cheerful, Frivolous",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 127,
+    "date": "2026-08-13",
+    "word": "Asynchronous",
+    "meaning": "Not happening or done at the same time",
+    "sentence": "The asynchronous updates allowed the team to work on different parts of the project without interrupting each other",
+    "synonym": "non-sync, staggered, uneven",
+    "antonym": "synchronous, simultaneous, coordinated",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
