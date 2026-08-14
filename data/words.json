@@ -1395,5 +1395,16 @@
     "antonym": "synchronous, simultaneous, coordinated",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 128,
+    "date": "2026-08-14",
+    "word": "Catharsis",
+    "meaning": "The process of releasing and purging strong emotions, often through a creative or therapeutic activity",
+    "sentence": "The drama therapy session provided a catharsis for the patients, allowing them to express their feelings in a safe environment",
+    "synonym": "purge, release, cleansing",
+    "antonym": "repression, suppression, retention",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
