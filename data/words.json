@@ -1406,5 +1406,16 @@
     "antonym": "repression, suppression, retention",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 129,
+    "date": "2026-08-16",
+    "word": "Tint",
+    "meaning": "A small amount of a color added to something",
+    "sentence": "The artist added a tint of blue to the painting to create a sense of calm",
+    "synonym": "Hue, Shade, Tinge",
+    "antonym": "Monochrome, Neutral, Colorless",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
