@@ -1417,5 +1417,16 @@
     "antonym": "Monochrome, Neutral, Colorless",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 130,
+    "date": "2026-08-17",
+    "word": "Oriented",
+    "meaning": "Familiar with or adjusted to a particular situation or environment",
+    "sentence": "After a few weeks of training, the new employee was fully oriented to the company's policies and procedures",
+    "synonym": "Adjusted, Acclimated, Familiarized",
+    "antonym": "Disoriented, Confused, Unfamiliar",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
